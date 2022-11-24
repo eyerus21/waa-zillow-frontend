@@ -1,0 +1,13 @@
+.card{
+    width: 25%;
+}
+.tail{
+    display: inline-block;
+    margin: 15px;
+    
+
+}
+.card-action{
+    text-align: start;
+
+}
