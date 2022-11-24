@@ -26,6 +26,11 @@ export default function Header() {
           <li>
             <a href="sass.html"  className="black-text">Advertise</a>
           </li>
+
+          <li>
+            <a href="/addProperties" className="" >Add properties</a>
+          </li>
+          
           <li>
             <a href="collapsible.html"  className="black-text">Agent Hub</a>
           </li>
@@ -33,6 +38,8 @@ export default function Header() {
           <a href="" className="black-text"><i className="material-icons left" >help</i>help</a> 
 
           </li>
+
+         
         </ul>
       </div>
     </nav>
