@@ -28,7 +28,7 @@ export default function Header() {
           </li>
 
           <li>
-            <a href="/addProperties" className="" >Add properties</a>
+            <a href="/addProperties" className="black-text" >Add properties</a>
           </li>
           
           <li>
